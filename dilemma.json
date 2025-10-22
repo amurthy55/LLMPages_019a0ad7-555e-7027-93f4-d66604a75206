@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": true,
+    "reason": "To minimize harm by choosing to hit one person instead of two."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "The two individuals are known criminals, thus prioritizing the life of the innocent child."
+  }
+}
